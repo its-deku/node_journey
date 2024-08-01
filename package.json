@@ -1,0 +1,20 @@
+{
+  "name": "node_journey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/its-deku/node_journey.git"
+  },
+  "author": "Yash Pawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/its-deku/node_journey/issues"
+  },
+  "homepage": "https://github.com/its-deku/node_journey#readme"
+}
