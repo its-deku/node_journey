@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/its-deku/node_journey/issues"
   },
-  "homepage": "https://github.com/its-deku/node_journey#readme"
+  "homepage": "https://github.com/its-deku/node_journey#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
